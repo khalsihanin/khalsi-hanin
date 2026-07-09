@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 # 👩‍💻 About Me
 
 <img align="right" width="300" alt="46163da5e8a1fa8e777a020607cddc1c" src="https://github.com/user-attachments/assets/ec88e8c7-fabb-4b58-be96-ec04d9f3a37e">
