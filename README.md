@@ -1,29 +1,33 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,25:111111,50:222222,75:444444,100:000000&text=HANIN%20KHALSI&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-# Hi 👋, I'm Hanin Khalsi
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hi+I'm+Hanin+Khalsi+👋;Programming+Student;Python+Developer+🐍;Future+Software+Engineer;Web+Developer;Always+Learning+🚀"/>
 
-### 💻 Programming Student | Future Software Engineer 🚀
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=HaninKhalsi&style=flat&color=blue&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=HaninKhalsi&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
 
 </div>
-
 
 ---
 
 # 👩‍💻 About Me
 
+<img align="right" width="300" alt="46163da5e8a1fa8e777a020607cddc1c" src="https://github.com/user-attachments/assets/ec88e8c7-fabb-4b58-be96-ec04d9f3a37e">
+
 ```python
-class Developer:
+class HaninKhalsi:
 
     def __init__(self):
+
         self.name = "Hanin Khalsi"
+
         self.role = "Programming Student"
+
         self.country = "Tunisia 🇹🇳"
 
-        self.skills = [
+        self.languages = [
             "Python",
             "HTML",
             "CSS",
@@ -35,174 +39,225 @@ class Developer:
         self.interests = [
             "Software Development",
             "Web Development",
+            "Problem Solving",
             "Algorithms",
-            "Problem Solving"
+            "Artificial Intelligence"
         ]
 
-    def introduce(self):
-        print("Building my future one line of code at a time 🚀")
+        self.goal = "Become a Software Engineer"
 
+    def motto(self):
 
-me = Developer()
-me.introduce()
+        return "Code • Learn • Improve • Repeat"
+
+me = HaninKhalsi()
+
+print(me.motto())
 ```
+
+<br>
 
 ---
 
-# 🚀 My Skills
+# ⚙️ Tech Stack
 
-## 💻 Programming Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,vscode&theme=dark"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+---
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+# 💻 Skills
 
+### Programming Languages
 
-## 🌐 Web Development
+<p align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow">
 
-![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge)
+<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white">
 
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
 
-## 🛠 Tools
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### Web Development
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
 
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5">
+
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3">
+
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript">
+
+</p>
+
+---
+
+### Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git">
+
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode">
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<div align="center">
 
+<img width="350" alt="cd17d80ee62d107209da0ae86a3e2c1c" src="https://github.com/user-attachments/assets/bd8f4374-e319-4788-8bbe-057c7dc8c67e">
 
-🌱 **Advanced Python** 🐍
+</div>
 
-🌐 **Web Development**
+```text
+🐍 Advanced Python
 
-🗄️ **Databases & SQL**
+🌐 Modern Web Development
 
-🧠 **Algorithms & Problem Solving**
+🗄️ SQL & Database Design
 
-💻 **Software Engineering Concepts**
+💻 Software Engineering
 
-🚀 Preparing myself to become a professional developer.
+🧠 Algorithms & Data Structures
 
+🤖 Artificial Intelligence
+```
 
 ---
 
 # 💻 Currently Coding
 
 ```text
-🔥 Creating:
-   ├── Web applications
-   ├── Python projects
-   ├── Database systems
-   └── Algorithm solutions
+🔥 Working On
 
+├── Python Projects
+├── Web Applications
+├── SQL Databases
+└── Personal Portfolio
 
-📚 Improving:
-   ├── Clean code
-   ├── Software architecture
-   ├── Problem solving
-   └── Development skills
+📚 Improving
+
+├── Clean Code
+├── Problem Solving
+├── Full Stack Development
+└── Programming Skills
 ```
-
 
 ---
-
-# 🌍 Languages I Speak
-
-🇹🇳 Arabic — Native
-
-🇫🇷 French
-
-🇬🇧 English
-
-🇪🇸 Spanish
-
-
----
-
-# 📌 Featured Projects
-
-
-## 🌸 Web Development Projects
-
-```
-🌐 Portfolio Website
-   → HTML + CSS + JavaScript
-
-🗄️ PHP Management System
-   → PHP + SQL Database
-
-✨ Interactive Websites
-   → Responsive design and animations
-```
-
-
-## 🐍 Python Projects
-
-```
-🐍 Automation Scripts
-
-🧠 Algorithm Exercises
-
-⚡ Problem Solving Projects
-
-📊 Data Processing Projects
-```
-
-
----
-
-# 🏗️ Future Projects
-
-```
-🤖 Artificial Intelligence Projects
-
-🔐 Cybersecurity Experiments
-
-🌐 Full Stack Applications
-
-📱 Software Engineering Projects
-```
-
-
----
-
-# 📊 GitHub Stats
-
+# 🌍 Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HaninKhalsi&show_icons=true&theme=tokyonight"/>
+<table>
+<tr>
+<td align="center">
+<img  height="100" alt="bc4a1df084c6584f9e07ba9a04887675" src="https://github.com/user-attachments/assets/c3466b77-048e-4693-a2dd-ef49ec0c9d06" width="150"><br>
+<b>Arabic</b><br>
+Native 🇹🇳
+</td>
 
+<td align="center">
+<img height="100" width="150" alt="1d83f820c36fa5fe4ea7833bcb06f205" src="https://github.com/user-attachments/assets/e34a3843-09c0-46c4-8761-282f38ca01b3">
+<br>
+<b>English</b><br>
+Professional
+</td>
 
-<br><br>
+<td align="center">
+<img height="100" width="150" alt="45f649cbd4813010e1956bbb48ce2cd3" src="https://github.com/user-attachments/assets/01a541ed-9d71-4dd5-8dcf-afe578cf2250">
+<br>
+<b>French</b><br>
+Intermediate
+</td>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaninKhalsi&layout=compact&theme=tokyonight"/>
-
-
-<br><br>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaninKhalsi&theme=tokyonight"/>
+<td align="center">
+<img height="100" width="150" alt="7e8c11ac56cb250235e84a134e12edaa" src="https://github.com/user-attachments/assets/da5f9142-8622-44fb-baae-871c48d78e94">
+<br>
+<b>Spanish</b><br>
+Learning
+</td>
+</tr>
+</table>
 
 </div>
 
+---
+
+
+
+# 🏗️ Future Goals
+
+```text
+🎯 Become a Software Engineer
+
+🌐 Master Full Stack Development
+
+🐍 Build Advanced Python Applications
+
+🤖 Learn Artificial Intelligence
+
+🔐 Explore Cybersecurity
+
+📱 Create Real-World Projects
+
+🚀 Contribute to Open Source
+
+📚 Never Stop Learning
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaninKhalsi&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaninKhalsi&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaninKhalsi&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HaninKhalsi&theme=darkhub&no-frame=true&no-bg=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaninKhalsi&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -210,56 +265,19 @@ me.introduce()
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-
 ---
 
-# 📫 Contact Me
 
-<div align="center">
+## ⭐ Thanks for Visiting!
 
+*"Every line of code is another step toward becoming the developer I aspire to be."*
 
-💻 GitHub:
-https://github.com/HaninKhalsi
+If you like my projects, don't forget to ⭐ them!
 
-
-📧 Email:
-Your-email@example.com
-
-
-🌐 Portfolio:
-Coming soon 🚀
-
-
-</div>
-
-
----
-
-# 💡 My Developer Philosophy
-
-
-> "Every expert was once a beginner who refused to stop learning."
-
-
-Programming is not only about writing code.
-
-It is about creating solutions, solving problems,
-and improving every single day. 🚀
-
-
----
-
-<div align="center">
-
-
-## ✨ Thanks for visiting my profile 💙
-
-
-⭐ Feel free to explore my repositories!
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,30:111111,60:333333,100:000000"/>
 
 </div>
