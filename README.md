@@ -54,7 +54,6 @@ me = HaninKhalsi()
 
 print(me.motto())
 ```
-
 <br>
 
 ---
