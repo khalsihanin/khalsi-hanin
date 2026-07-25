@@ -219,13 +219,15 @@ Learning
 
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=HaninKhalsi](https://github.com/khalsihanin)&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalsihanin&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaninKhalsi&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalsihanin&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -233,7 +235,7 @@ Learning
 
 <div align="center">
 
-<img src="https://github.com/khalsihanin&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=khalsihanin&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -243,7 +245,7 @@ Learning
 
 <div align="center">
 
-<img src="[https://github-profile-trophy.vercel.app/?username=HaninKhalsi](https://github.com/khalsihanin)&theme=darkhub&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=khalsihanin&theme=darkhub&no-frame=true&no-bg=true&margin-w=15"/>
 
 </div>
 
@@ -253,7 +255,7 @@ Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaninKhalsi&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khalsihanin&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -263,12 +265,11 @@ Learning
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/khalsihanin/khalsihanin/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
-
 
 ## ⭐ Thanks for Visiting!
 
@@ -277,5 +278,3 @@ Learning
 If you like my projects, don't forget to ⭐ them!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,30:111111,60:333333,100:000000"/>
-
-</div>
